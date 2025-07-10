@@ -9,7 +9,7 @@ export const Footer = () => {
           <Image src={logo} alt="logo" height={40} className="relative" />
         </div>
         <p className="mt-6">&copy; 2025
-       Made with ❤️ by Aryan and Ayush.</p>
+       Made with ❤️ by Aryan </p>
       </div>
     </footer>
   );
