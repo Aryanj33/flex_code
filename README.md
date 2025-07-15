@@ -1,10 +1,10 @@
-# Flex It Out | Bajaj
+
 
 ![Project Preview](./public/preview.png)
 
 ## Overview
 
-Flex It Out is an innovative platform designed to engage users in daily challenges, rewarding their achievements and fostering a vibrant community. Leveraging advanced AI pose detection using TensorFlow.js, the platform offers an interactive and immersive user experience.
+Flex code is an innovative platform designed to engage users in daily challenges, rewarding their achievements and fostering a vibrant community. Leveraging advanced AI pose detection using TensorFlow.js, the platform offers an interactive and immersive user experience.
 
 ## Features
 
@@ -26,7 +26,7 @@ Flex It Out is an innovative platform designed to engage users in daily challeng
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flex-it-out.git
+   git clone https://github.com/Aryanj33/flex_code.git
    ```
 2. **Install Dependencies**:
    ```bash
